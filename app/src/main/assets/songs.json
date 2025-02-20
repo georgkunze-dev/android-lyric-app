@@ -1,0 +1,471 @@
+[
+  {
+    "album": "30 Days",
+    "artist": "Lucidious, Joel Woods",
+    "imgName": "_30_days",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Anywhere",
+        "lyricsHtml": "<div id='rg_embed_link_7178860' class='rg_embed_link' data-song-id='7178860'>Read <a href='https://genius.com/Lucidious-anywhere-lyrics'>“Anywhere” by Lucidious</a> on Genius</div> <script crossorigin src='//genius.com/songs/7178860/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/49UoZtd6QnORng6FewQxSy?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 2,
+        "title": "Wanna go home",
+        "lyricsHtml": "<div id='rg_embed_link_7178861' class='rg_embed_link' data-song-id='7178861'>Read <a href='https://genius.com/Lucidious-wanna-go-home-lyrics'>“Wanna go home” by Lucidious</a> on Genius</div> <script crossorigin src='//genius.com/songs/7178861/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2EQFSZAsxyK5QxtSYFRVXS?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 3,
+        "title": "VAN GOGH",
+        "lyricsHtml": "<div id='rg_embed_link_7178862' class='rg_embed_link' data-song-id='7178862'>Read <a href='https://genius.com/Lucidious-van-gogh-lyrics'>“VAN GOGH” by Lucidious</a> on Genius</div> <script crossorigin src='//genius.com/songs/7178862/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3hJuKJ2EN0HSUi24BIODc8?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 4,
+        "title": "When i was a kid",
+        "lyricsHtml": "<div id='rg_embed_link_7178293' class='rg_embed_link' data-song-id='7178293'>Read <a href='https://genius.com/Lucidious-when-i-was-a-kid-lyrics'>“When i was a kid” by Lucidious</a> on Genius</div> <script crossorigin src='//genius.com/songs/7178293/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0rahy3UYRWPEtZHZQtnSbq?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 5,
+        "title": "Moonlight",
+        "lyricsHtml": "<div id='rg_embed_link_7178863' class='rg_embed_link' data-song-id='7178863'>Read <a href='https://genius.com/Lucidious-moonlight-lyrics'>“Moonlight” by Lucidious</a> on Genius</div> <script crossorigin src='//genius.com/songs/7178863/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2a1anX195aBL8MYWbytT3m?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  },
+  {
+    "album": "Grim Peaks IV",
+    "artist": "Lil Revive",
+    "imgName": "grim_peaks_4",
+    "songs": [
+      {
+        "id": 6,
+        "title": "Dead Man Walking",
+        "lyricsHtml": "<div id='rg_embed_link_9653026' class='rg_embed_link' data-song-id='9653026'>Read <a href='https://genius.com/Lil-revive-dead-man-walking-lyrics'>“Dead Man Walking” by Lil Revive</a> on Genius</div> <script crossorigin src='//genius.com/songs/9653026/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1TsaamGynBvtpU4dB4BA4P?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 7,
+        "title": "Tales From The Crypt",
+        "lyricsHtml": "<div id='rg_embed_link_9653029' class='rg_embed_link' data-song-id='9653029'>Read <a href='https://genius.com/Lil-revive-tales-from-the-crypt-lyrics'>“Tales From The Crypt” by Lil Revive</a> on Genius</div> <script crossorigin src='//genius.com/songs/9653029/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4nEXnEccFL3LZunf1mXyPO?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 8,
+        "title": "27 Club",
+        "lyricsHtml": "<div id='rg_embed_link_9653030' class='rg_embed_link' data-song-id='9653030'>Read <a href='https://genius.com/Lil-revive-27-club-lyrics'>“27 Club” by Lil Revive</a> on Genius</div> <script crossorigin src='//genius.com/songs/9653030/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/41ORdUn7SyDfEXAg810UfO?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 9,
+        "title": "The Darkness Is My Only Friend",
+        "lyricsHtml": "<div id='rg_embed_link_9653031' class='rg_embed_link' data-song-id='9653031'>Read <a href='https://genius.com/Lil-revive-the-darkness-is-my-only-friend-lyrics'>“The Darkness Is My Only Friend” by Lil Revive</a> on Genius</div> <script crossorigin src='//genius.com/songs/9653031/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3wFf7BeHKwIfxCFHvF5E3Z?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 10,
+        "title": "Never Sleep Again",
+        "lyricsHtml": "<div id='rg_embed_link_9653032' class='rg_embed_link' data-song-id='9653032'>Read <a href='https://genius.com/Lil-revive-never-sleep-again-lyrics'>“Never Sleep Again” by Lil Revive</a> on Genius</div> <script crossorigin src='//genius.com/songs/9653032/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6aFxYerCQuXrayV7mMZEhQ?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {"id": 11,
+
+        "title": "Death Note",
+        "lyricsHtml": "<div id='rg_embed_link_9653033' class='rg_embed_link' data-song-id='9653033'>Read <a href='https://genius.com/Lil-revive-death-note-lyrics'>“Death Note” by Lil Revive</a> on Genius</div> <script crossorigin src='//genius.com/songs/9653033/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/147JV2zIxzUpr8oKx7JMRc?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 12,
+        "title": "Haunted Roads",
+        "lyricsHtml": "<div id='rg_embed_link_9653034' class='rg_embed_link' data-song-id='9653034'>Read <a href='https://genius.com/Lil-revive-haunted-roads-lyrics'>“Haunted Roads” by Lil Revive</a> on Genius</div> <script crossorigin src='//genius.com/songs/9653034/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3Jar57gVikOmrOA7uk3AWr?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  },
+  {
+    "album": "POST HUMAN: SURVIVAL HORROR",
+    "artist": "Bring Me The Horizon",
+    "imgName": "post_human_survival_horror",
+    "songs": [
+      {
+        "id": 13,
+        "title": "Dear Diary",
+        "lyricsHtml": "<div id='rg_embed_link_6058776' class='rg_embed_link' data-song-id='6058776'>Read <a href='https://genius.com/Bring-me-the-horizon-dear-diary-lyrics'>“Dear Diary” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/6058776/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3DW6GVr7RVyfvo4NBRvZIZ?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 14,
+        "title": "Parasite Eve",
+        "lyricsHtml": "<div id='rg_embed_link_5405239' class='rg_embed_link' data-song-id='5405239'>Read <a href='https://genius.com/Bring-me-the-horizon-parasite-eve-lyrics'>“Parasite Eve” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/5405239/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/36xBFaVGjqm7le8CTHytUj?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 15,
+        "title": "Teardrops",
+        "lyricsHtml": "<div id='rg_embed_link_6058777' class='rg_embed_link' data-song-id='6058777'>Read <a href='https://genius.com/Bring-me-the-horizon-teardrops-lyrics'>“Teardrops” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/6058777/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3WATWS2Ywo5HeHtG0bE2iZ?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 16,
+        "title": "Obey",
+        "lyricsHtml": "<div id='rg_embed_link_5904555' class='rg_embed_link' data-song-id='5904555'>Read <a href='https://genius.com/Bring-me-the-horizon-obey-lyrics'>“Obey” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/5904555/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6MD6xpFK4cfquxRqXxqwjq?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 17,
+        "title": "Itch for the Cure (When Will We Be Free?)",
+        "lyricsHtml": "<div id='rg_embed_link_6058778' class='rg_embed_link' data-song-id='6058778'>Read <a href='https://genius.com/Bring-me-the-horizon-itch-for-the-cure-when-will-we-be-free-lyrics'>“Itch for the Cure (When Will We Be Free?)” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/6058778/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2VJ8DjdaOC5G3deIAefhq3?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 18,
+        "title": "Kingslayer",
+        "lyricsHtml": "<div id='rg_embed_link_6058780' class='rg_embed_link' data-song-id='6058780'>Read <a href='https://genius.com/Bring-me-the-horizon-kingslayer-lyrics'>“Kingslayer” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/6058780/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7CAbF0By0Fpnbiu6Xn5ZF7?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 19,
+        "title": "1x1",
+        "lyricsHtml": "<div id='rg_embed_link_6058779' class='rg_embed_link' data-song-id='6058779'>Read <a href='https://genius.com/Bring-me-the-horizon-1x1-lyrics'>“1x1” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/6058779/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6sIbv1oWOuma2qV907MUbk?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 20,
+        "title": "Ludens",
+        "lyricsHtml": "<div id='rg_embed_link_4912244' class='rg_embed_link' data-song-id='4912244'>Read <a href='https://genius.com/Bring-me-the-horizon-ludens-lyrics'>“Ludens” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/4912244/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4xWirulal0kGikFE3WSU75?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 21,
+        "title": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death",
+        "lyricsHtml": "<div id='rg_embed_link_6058781' class='rg_embed_link' data-song-id='6058781'>Read <a href='https://genius.com/Bring-me-the-horizon-one-day-the-only-butterflies-left-will-be-in-your-chest-as-you-march-towards-your-death-lyrics'>“One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death” by Bring Me The Horizon</a> on Genius</div> <script crossorigin src='//genius.com/songs/6058781/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/20Kau1BL5IUaPo4l488D57?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  },
+  {
+    "album": "A SERIES OF UNFORTUNATE EVENTS",
+    "artist": "Ryan Oakes",
+    "imgName": "a_series_of_unfortunate_events",
+    "songs": [
+      {
+        "id": 22,
+        "title": "NUMB",
+        "lyricsHtml": "<div id='rg_embed_link_4579654' class='rg_embed_link' data-song-id='4579654'>Read <a href='https://genius.com/Ryan-oakes-numb-2019-lyrics'>“NUMB (2019)” by Ryan Oakes</a> on Genius</div> <script crossorigin src='//genius.com/songs/4579654/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/66MIGyHdex7vfP6RAwpMNL?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 23,
+        "title": "BITTERSWEET",
+        "lyricsHtml": "<div id='rg_embed_link_4579667' class='rg_embed_link' data-song-id='4579667'>Read <a href='https://genius.com/Ryan-oakes-bittersweet-lyrics'>“BITTERSWEET” by Ryan Oakes</a> on Genius</div> <script crossorigin src='//genius.com/songs/4579667/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1uiIOdjwNwk5g46vB5bm1K?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 24,
+        "title": "WOULD YOU RATHER",
+        "lyricsHtml": "<div id='rg_embed_link_4986657' class='rg_embed_link' data-song-id='4986657'>Read <a href='https://genius.com/Ryan-oakes-would-you-rather-lyrics'>“WOULD YOU RATHER” by Ryan Oakes</a> on Genius</div> <script crossorigin src='//genius.com/songs/4986657/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1gomx6q457nFGBtmffCJWb?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 25,
+        "title": "GLASS",
+        "lyricsHtml": "<div id='rg_embed_link_4579673' class='rg_embed_link' data-song-id='4579673'>Read <a href='https://genius.com/Ryan-oakes-glass-lyrics'>“GLASS” by Ryan Oakes</a> on Genius</div> <script crossorigin src='//genius.com/songs/4579673/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0TNKXJqPcChlqyHU4EEne5?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 26,
+        "title": "MIDNIGHT",
+        "lyricsHtml": "<div id='rg_embed_link_4579656' class='rg_embed_link' data-song-id='4579656'>Read <a href='https://genius.com/Ryan-oakes-midnight-lyrics'>“MIDNIGHT” by Ryan Oakes</a> on Genius</div> <script crossorigin src='//genius.com/songs/4579656/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5QuhpEbNGZJXsOnePRDOCY?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 27,
+        "title": "INTERNET FAMOUS",
+        "lyricsHtml": "<div id='rg_embed_link_4579674' class='rg_embed_link' data-song-id='4579674'>Read <a href='https://genius.com/Ryan-oakes-internet-famous-lyrics'>“INTERNET FAMOUS” by Ryan Oakes</a> on Genius</div> <script crossorigin src='//genius.com/songs/4579674/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0W1vvAiYm0bEZA16SdSwVJ?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 28,
+        "title": "A SERIES OF UNFORUNATE EVENTS",
+        "lyricsHtml": "<div id='rg_embed_link_4579671' class='rg_embed_link' data-song-id='4579671'>Read <a href='https://genius.com/Ryan-oakes-a-series-of-unforunate-events-lyrics'>“A SERIES OF UNFORUNATE EVENTS” by Ryan Oakes</a> on Genius</div> <script crossorigin src='//genius.com/songs/4579671/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1of40e94s354JD6zdg82yV?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  },
+  {
+    "album": "Hollywood Bleeding",
+    "artist": "Post Malone",
+    "imgName": "hollywood_bleeding",
+    "songs": [
+      {
+        "id": 29,
+        "title": "Hollywood’s Bleeding",
+        "lyricsHtml": "<div id='rg_embed_link_4839087' class='rg_embed_link' data-song-id='4839087'>Read <a href='https://genius.com/Post-malone-hollywoods-bleeding-lyrics'>“Hollywood's Bleeding” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839087/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7sWRlDoTDX8geTR8zzr2vt?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 30,
+        "title": "Saint-Tropez",
+        "lyricsHtml": "<div id='rg_embed_link_4839340' class='rg_embed_link' data-song-id='4839340'>Read <a href='https://genius.com/Post-malone-saint-tropez-lyrics'>“Saint-Tropez” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839340/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/05mDaV9Vb3wrzjF6OPZnhq?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 31,
+        "title": "Enemies",
+        "lyricsHtml": "<div id='rg_embed_link_4839342' class='rg_embed_link' data-song-id='4839342'>Read <a href='https://genius.com/Post-malone-enemies-lyrics'>“Enemies” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839342/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0Xek5rqai2jcOWCYWJfVCF?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 32,
+        "title": "Allergic",
+        "lyricsHtml": "<div id='rg_embed_link_4839337' class='rg_embed_link' data-song-id='4839337'>Read <a href='https://genius.com/Post-malone-allergic-lyrics'>“Allergic” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839337/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1YscJ7yVTlFxW3eF6pv5ba?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 33,
+        "title": "A Thousand Bad Times",
+        "lyricsHtml": "<div id='rg_embed_link_4839099' class='rg_embed_link' data-song-id='4839099'>Read <a href='https://genius.com/Post-malone-a-thousand-bad-times-lyrics'>“A Thousand Bad Times” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839099/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2J0NXdHr6MYvKDSxB7k3V2?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 34,
+        "title": "Circles",
+        "lyricsHtml": "<div id='rg_embed_link_4759464' class='rg_embed_link' data-song-id='4759464'>Read <a href='https://genius.com/Post-malone-circles-lyrics'>“Circles” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4759464/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/21jGcNKet2qwijlDFuPiPb?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 35,
+        "title": "Die For Me",
+        "lyricsHtml": "<div id='rg_embed_link_4839107' class='rg_embed_link' data-song-id='4839107'>Read <a href='https://genius.com/Post-malone-die-for-me-lyrics'>“Die For Me” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839107/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2C6WXnmZ66tHhHlnvwePiK?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 36,
+        "title": "On the Road",
+        "lyricsHtml": "<div id='rg_embed_link_4839108' class='rg_embed_link' data-song-id='4839108'>Read <a href='https://genius.com/Post-malone-on-the-road-lyrics'>“On the Road” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839108/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/12Fkyg9lpmaz2zmKOfw2Y2?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 37,
+        "title": "Take What You Want",
+        "lyricsHtml": "<div id='rg_embed_link_4839109' class='rg_embed_link' data-song-id='4839109'>Read <a href='https://genius.com/Post-malone-take-what-you-want-lyrics'>“Take What You Want” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839109/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7CZyCXKG6d5ALeq41sLzbw?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 38,
+        "title": "I’m Gonna Be",
+        "lyricsHtml": "<div id='rg_embed_link_4839110' class='rg_embed_link' data-song-id='4839110'>Read <a href='https://genius.com/Post-malone-im-gonna-be-lyrics'>“I'm Gonna Be” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839110/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1ckLp8lCl8LipXI0ypX72m?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 39,
+        "title": "Staring at the Sun",
+        "lyricsHtml": "<div id='rg_embed_link_4839111' class='rg_embed_link' data-song-id='4839111'>Read <a href='https://genius.com/Post-malone-staring-at-the-sun-lyrics'>“Staring at the Sun” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839111/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5KE9b4x7Zj2A8XtbkqhqTe?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 40,
+        "title": "Sunflower",
+        "lyricsHtml": "<div id='rg_embed_link_3993850' class='rg_embed_link' data-song-id='3993850'>Read <a href='https://genius.com/Post-malone-and-swae-lee-sunflower-lyrics'>“Sunflower” by Post Malone & Swae Lee</a> on Genius</div> <script crossorigin src='//genius.com/songs/3993850/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0RiRZpuVRbi7oqRdSMwhQY?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 41,
+        "title": "Internet",
+        "lyricsHtml": "<div id='rg_embed_link_3960537' class='rg_embed_link' data-song-id='3960537'>Read <a href='https://genius.com/Post-malone-internet-lyrics'>“Internet” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/3960537/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0KAzP1Rbp0Vz5pw8i1KDDI?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 42,
+        "title": "Goodbyes",
+        "lyricsHtml": "<div id='rg_embed_link_4387319' class='rg_embed_link' data-song-id='4387319'>Read <a href='https://genius.com/Post-malone-goodbyes-lyrics'>“Goodbyes” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4387319/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0t3ZvGKlmYmVsDzBJAXK8C?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 43,
+        "title": "Myself",
+        "lyricsHtml": "<div id='rg_embed_link_4839333' class='rg_embed_link' data-song-id='4839333'>Read <a href='https://genius.com/Post-malone-myself-lyrics'>“Myself” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839333/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2cvOfKHOHgwQlLiuLKP2xR?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 44,
+        "title": "I Know",
+        "lyricsHtml": "<div id='rg_embed_link_4839100' class='rg_embed_link' data-song-id='4839100'>Read <a href='https://genius.com/Post-malone-i-know-lyrics'>“I Know” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4839100/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6b2mfHMqWCA74XmUuVJm8r?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 45,
+        "title": "Wow",
+        "lyricsHtml": "<div id='rg_embed_link_4179509' class='rg_embed_link' data-song-id='4179509'>Read <a href='https://genius.com/Post-malone-wow-lyrics'>“Wow.” by Post Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/4179509/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7xQAfvXzm3AkraOtGPWIZg?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  },
+  {
+    "album": "Tickets To My Downfall",
+    "artist": "Machine Gun Kelly",
+    "imgName": "tickets_to_my_downfall",
+    "songs": [
+      {
+        "id": 46,
+        "title": "title track",
+        "lyricsHtml": "<div id='rg_embed_link_5929421' class='rg_embed_link' data-song-id='5929421'>Read <a href='https://genius.com/Mgk-title-track-lyrics'>“​title track” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5929421/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4kDgnKgZTX6puRz9EoNjle?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 47,
+        "title": "kiss kiss",
+        "lyricsHtml": "<div id='rg_embed_link_5373378' class='rg_embed_link' data-song-id='5373378'>Read <a href='https://genius.com/Mgk-kiss-kiss-lyrics'>“​kiss kiss” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5373378/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/69LvvkHnFFnX3d5eNObtMo?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 48,
+        "title": "drunk face",
+        "lyricsHtml": "<div id='rg_embed_link_5497216' class='rg_embed_link' data-song-id='5497216'>Read <a href='https://genius.com/Mgk-drunk-face-lyrics'>“​drunk face” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5497216/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3k0YJnqMKRZb8swo86vCkq?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 49,
+        "title": "bloody valentine",
+        "lyricsHtml": "<div id='rg_embed_link_5508773' class='rg_embed_link' data-song-id='5508773'>Read <a href='https://genius.com/Mgk-bloody-valentine-lyrics'>“​bloody valentine” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5508773/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6mADjHs6FXdroPzEGW6KVJ?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 50,
+        "title": "forget me too (Ft. Halsey)",
+        "lyricsHtml": "<div id='rg_embed_link_5222054' class='rg_embed_link' data-song-id='5222054'>Read <a href='https://genius.com/Mgk-forget-me-too-lyrics'>“​forget me too” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5222054/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1VSuFS7PahCN3SWbOcQ98m?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 51,
+        "title": "all i know (Ft. Trippie Redd)",
+        "lyricsHtml": "<div id='rg_embed_link_5373369' class='rg_embed_link' data-song-id='5373369'>Read <a href='https://genius.com/Mgk-all-i-know-lyrics'>“​all i know” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5373369/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1vuUbnY82fCNjfzqjLmblw?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 52,
+        "title": "lonely",
+        "lyricsHtml": "<div id='rg_embed_link_5522076' class='rg_embed_link' data-song-id='5522076'>Read <a href='https://genius.com/Mgk-lonely-lyrics'>“​lonely” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5522076/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6EPxapAlha7pEyn5kXgW3R?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 53,
+        "title": "WWIII",
+        "lyricsHtml": "<div id='rg_embed_link_5929422' class='rg_embed_link' data-song-id='5929422'>Read <a href='https://genius.com/Mgk-wwiii-lyrics'>“WWIII” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5929422/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/41ltleYVuvEjnqiygy2rQ3?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 54,
+        "title": "kevin and barracuda (interlude)",
+        "lyricsHtml": "<div id='rg_embed_link_5929423' class='rg_embed_link' data-song-id='5929423'>Read <a href='https://genius.com/Mgk-kevin-and-barracuda-interlude-lyrics'>“​kevin and barracuda (interlude)” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5929423/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7Ct4wK3Fpp8vvZGcWy4NCP?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 55,
+        "title": "concert for aliens",
+        "lyricsHtml": "<div id='rg_embed_link_5786147' class='rg_embed_link' data-song-id='5786147'>Read <a href='https://genius.com/Mgk-concert-for-aliens-lyrics'>“​​concert for aliens” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5786147/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7os53rdrgA0OU6xC5xJruX?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 56,
+        "title": "my ex's best friend by ​mgk & blackbear",
+        "lyricsHtml": "<div id='rg_embed_link_5838882' class='rg_embed_link' data-song-id='5838882'>Read <a href='https://genius.com/Mgk-and-blackbear-my-exs-best-friend-lyrics'>“​my ex's best friend” by ​mgk & blackbear</a> on Genius</div> <script crossorigin src='//genius.com/songs/5838882/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/7kDUspsoYfLkWnZR7qwHZl?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 57,
+        "title": "jawbreaker",
+        "lyricsHtml": "<div id='rg_embed_link_5928821' class='rg_embed_link' data-song-id='5928821'>Read <a href='https://genius.com/Mgk-jawbreaker-lyrics'>“​jawbreaker” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5928821/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2iVsPIS2yjS4xhs5Rdy65O?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 58,
+        "title": "nothing inside (Ft. ​iann dior)",
+        "lyricsHtml": "<div id='rg_embed_link_5929424' class='rg_embed_link' data-song-id='5929424'>Read <a href='https://genius.com/Mgk-nothing-inside-lyrics'>“​nothing inside” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5929424/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5jlivIdjjp1pP5HvN0J0QI?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 59,
+        "title": "banyan tree (interlude)",
+        "lyricsHtml": "<div id='rg_embed_link_5929108' class='rg_embed_link' data-song-id='5929108'>Read <a href='https://genius.com/Mgk-banyan-tree-interlude-lyrics'>“​banyan tree (interlude)” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5929108/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6yK8yu72dXsQDWRdZ1OKaL?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 60,
+        "title": "play this when i'm gone",
+        "lyricsHtml": "<div id='rg_embed_link_5100523' class='rg_embed_link' data-song-id='5100523'>Read <a href='https://genius.com/Mgk-play-this-when-im-gone-lyrics'>“​play this when i'm gone” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/5100523/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3piGeiIp5UJATvb9e9n1Z5?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 61,
+        "title": "body bag (Ft. The Used & YUNGBLUD)",
+        "lyricsHtml": "<div id='rg_embed_link_6010090' class='rg_embed_link' data-song-id='6010090'>Read <a href='https://genius.com/Mgk-body-bag-lyrics'>“​body bag” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/6010090/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0NZrY7Lc9g6V03hxRpfToV?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 62,
+        "title": "hangover cure",
+        "lyricsHtml": "<div id='rg_embed_link_6010069' class='rg_embed_link' data-song-id='6010069'>Read <a href='https://genius.com/Mgk-hangover-cure-lyrics'>“​hangover cure” by ​mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/6010069/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3FftYzkNisJgrCaA0lYy5p?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 63,
+        "title": "split a pill",
+        "lyricsHtml": "<div id='rg_embed_link_6010086' class='rg_embed_link' data-song-id='6010086'>Read <a href='https://genius.com/Mgk-split-a-pill-lyrics'>“split a pill” by mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/6010086/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4ysgA7BNxkyN6Aibc5CZsw?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 64,
+        "title": "can't look back",
+        "lyricsHtml": "<div id='rg_embed_link_6010077' class='rg_embed_link' data-song-id='6010077'>Read <a href='https://genius.com/Mgk-cant-look-back-lyrics'>“can't look back” by mgk</a> on Genius</div> <script crossorigin src='//genius.com/songs/6010077/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/0SrNeyEck4arq4ASwjcq0H?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 65,
+        "title": "Misery Business by mgk & Travis Barker",
+        "lyricsHtml": "<div id='rg_embed_link_5391922' class='rg_embed_link' data-song-id='5391922'>Read <a href='https://genius.com/Mgk-and-travis-barker-misery-business-lyrics'>“Misery Business” by mgk & Travis Barker</a> on Genius</div> <script crossorigin src='//genius.com/songs/5391922/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5YEHrYUjG9e0VPQLCp6vGo?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  },
+  {
+    "album": "Autumn Gloom",
+    "artist": "Iamjakehill ",
+    "imgName": "autumn_gloom",
+    "songs": [
+      {
+        "id": 66,
+        "title": "Autumn Gloom",
+        "lyricsHtml": "<div id='rg_embed_link_4897341' class='rg_embed_link' data-song-id='4897341'>Read <a href='https://genius.com/Iamjakehill-autumn-gloom-lyrics'>“Autumn Gloom” by iamjakehill</a> on Genius</div> <script crossorigin src='//genius.com/songs/4897341/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4GSfmkQ0LOadv8AaDRFqNl?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 67,
+        "title": "All Along",
+        "lyricsHtml": "<div id='rg_embed_link_5217936' class='rg_embed_link' data-song-id='5217936'>Read <a href='https://genius.com/Iamjakehill-all-along-lyrics'>“All Along” by iamjakehill</a> on Genius</div> <script crossorigin src='//genius.com/songs/5217936/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3gjyor3Dum9VNzYPX1Kwna?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 68,
+        "title": "This War",
+        "lyricsHtml": "<div id='rg_embed_link_5295324' class='rg_embed_link' data-song-id='5295324'>Read <a href='https://genius.com/Iamjakehill-this-war-lyrics'>“This War” by iamjakehill</a> on Genius</div> <script crossorigin src='//genius.com/songs/5295324/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/18j711N2SL81JJcJGE3ANE?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 69,
+        "title": "Use Me, Haunt Me",
+        "lyricsHtml": "<div id='rg_embed_link_5295325' class='rg_embed_link' data-song-id='5295325'>Read <a href='https://genius.com/Iamjakehill-use-me-haunt-me-lyrics'>“Use Me, Haunt Me” by iamjakehill</a> on Genius</div> <script crossorigin src='//genius.com/songs/5295325/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1gtMIgVx742VKZ37zBy0Nm?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      },
+      {
+        "id": 70,
+        "title": "I.M.Y.S.M.",
+        "lyricsHtml": "<div id='rg_embed_link_3033620' class='rg_embed_link' data-song-id='3033620'>Read <a href='https://genius.com/Iamjakehill-imysm-lyrics'>“I.M.Y.S.M.” by iamjakehill</a> on Genius</div> <script crossorigin src='//genius.com/songs/3033620/embed.js'></script>",
+        "playerHtml": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2q8TPsjpT494xz0sjUxhXF?utm_source=generator&theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">m28909_LyriXplorer</string>
+
+    <string name="home">Home</string>
+    <string name="song">Songs</string>
+    <string name="album">Albums</string>
+    <string name="search">Search</string>
+</resources>
